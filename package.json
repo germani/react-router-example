@@ -1,0 +1,23 @@
+{
+  "name": "friendlife",
+  "version": "0.0.1",
+  "description": "forfun reactjs ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "mirotincev",
+  "license": "ISC",
+  "dependencies": {
+    "node-jsx": "~0.12.4",
+    "react": "~0.12.2",
+    "react-router": "~0.11.6",
+    "react-tools": "^0.13.3"
+  },
+  "devDependencies": {
+    "express": "^4.12.4",
+    "jade": "^1.10.0",
+    "lodash.merge": "^3.3.1"
+  }
+}
